@@ -18,6 +18,9 @@
 ## Day 5
 * 반복문 for 
 * range() : 반복 수행을 통해 한 범위의 숫자를 만들고 싶은 경우 사용
+
+## Day 6
+* function 개념 : def function_name() :
 * 
 
   
