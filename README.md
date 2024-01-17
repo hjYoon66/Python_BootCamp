@@ -22,5 +22,6 @@
 ## Day 6
 * function 개념 : def function_name() :
 * while 반복문 : 특정 부분이 참일 경우 반복문으로 들어가 반복문 실행
-* 
-  
+
+## Day 7
+* Hangman Game Practice
