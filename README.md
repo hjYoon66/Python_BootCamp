@@ -25,3 +25,7 @@
 
 ## Day 7
 * Hangman Game Practice
+* Flow Chart
+<img width="588" alt="Solution+-+Hangman+Flowchart+1" src="https://github.com/hjYoon66/Python_BootCamp/assets/101798354/9c033476-1c80-423e-8ddd-1e628b72c053" width="20%" height="20%">
+
+ 
