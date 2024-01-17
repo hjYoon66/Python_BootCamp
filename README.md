@@ -28,4 +28,8 @@
 * Flow Chart
 <img width="588" alt="Solution+-+Hangman+Flowchart+1" src="https://github.com/hjYoon66/Python_BootCamp/assets/101798354/9c033476-1c80-423e-8ddd-1e628b72c053" width="20%" height="20%">
 
+## Day 8
+* 입력값이 있는 함수 : 파라미터(Parameter)
+* 시저 암호 practice
+
  
