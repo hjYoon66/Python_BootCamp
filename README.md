@@ -32,4 +32,7 @@
 * 입력값이 있는 함수 : 파라미터(Parameter)
 * 시저 암호 practice
 
+## Day 9
+* Dictionary : {Key : Value}
+* Nesting 
  
