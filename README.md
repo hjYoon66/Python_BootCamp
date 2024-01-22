@@ -52,3 +52,7 @@
 ## Day 11
 
 - BlackJack Project
+
+## Day 12
+
+- Scope :
