@@ -55,7 +55,12 @@
 
 ## Day 12
 
-- Scope  
+- Scope
 
 ## Day 13
+
 - Debugger
+
+## Day 14
+
+- HigherLowerGame
