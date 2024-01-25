@@ -24,6 +24,7 @@ def check_answer(guess, a_followers, b_followers):
     else:
         return guess == "b"
     
+    
 
 def game():
     print(logo)
